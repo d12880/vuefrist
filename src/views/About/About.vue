@@ -13,7 +13,7 @@ export default {
   name: 'Home',
   data() {
     return {
-      title:'about'
+      title:'abou'
     }
   },
   components: {
